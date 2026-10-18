@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+private_media/
+*.sqlite3
